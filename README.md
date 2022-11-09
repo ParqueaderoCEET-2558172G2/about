@@ -4,9 +4,9 @@
 
 <h2>Programadores<h2>
   
-<h6>Leidy Yineth Herrera Angulo @yineth2812
-  Javier Eduardo Niño Niño @javierxitox
-  Cristian Steven Velasco Rodriguez @CristianSteven26
+<h6>Leidy Yineth Herrera Angulo @yineth2812<br>
+  Javier Eduardo Niño Niño @javierxitox<br>
+  Cristian Steven Velasco Rodriguez @CristianSteven26<br>
   Paula Katherine Valero Perez kata.181129@gmail.com<h6>
 
   
