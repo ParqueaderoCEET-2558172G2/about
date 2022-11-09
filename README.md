@@ -1,6 +1,6 @@
 <h1>Certificaciones CEET<h1>
-  <hr>
-el centro de electricidad electronica y telecomunicaciones actualmente no cuenta con un sistema de informacion para manejar los certificados laborales de sus contratistas, por ello se ha decidido crear un proyecto que solucione la problematica.
+  
+<p>El objetivo es cambiar de trabajo<p>
 
 Programadores
 Robinson Andres Cortes @andrescortesdev
