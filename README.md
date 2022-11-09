@@ -25,5 +25,5 @@
 <h3>Servidor<h3>
 <h6>Para almacenar la información contariamos en un inicio con PHPMYADMIN y CLEVER CLOUD<h6>
 
-CI/CD (integracion y despliegue continuo)
-Por definir
+<h3>CI/CD (integracion y despliegue continuo)</h3>
+<h6>Por definir</h6>
