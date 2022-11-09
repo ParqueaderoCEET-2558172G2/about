@@ -4,11 +4,13 @@
 
 <h2>Programadores<h2>
   
+<h6>Leidy Yineth Herrera Angulo @yineth2812
+  Javier Eduardo Niño Niño @javierxitox
+  Cristian Steven Velasco Rodriguez @CristianSteven26
+  Paula Katherine Valero Perez kata.181129@gmail.com<h6>
+
   
-  
-  
-Robinson Andres Cortes @andrescortesdev
-Tecnologias a utilizar
+ <h2>Tecnologias a utilizar<h2>
 Backend
 Se trabajara con el Framework Laravel 8 y con el lenguaje de programacion PHP 8.1
 
