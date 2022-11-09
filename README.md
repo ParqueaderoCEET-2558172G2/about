@@ -1,8 +1,8 @@
 <h1>Certificaciones CEET<h1>
   
-<p>El objetivo es cambiar de trabajo<p>
+<h6>En el CEET se ha identificado una oportunidad de mejora para el proceso de autorización en el uso de parqueadero en la sede, por lo que hemos decidido cambiar la dinámica con la que se gestiona este en la sede.<h6>
 
-Programadores
+<h2>Programadores<h2>
 Robinson Andres Cortes @andrescortesdev
 Tecnologias a utilizar
 Backend
