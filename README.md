@@ -1,4 +1,4 @@
-#Certificaciones CEET
+<b>Certificaciones CEET<b>
 el centro de electricidad electronica y telecomunicaciones actualmente no cuenta con un sistema de informacion para manejar los certificados laborales de sus contratistas, por ello se ha decidido crear un proyecto que solucione la problematica.
 
 Programadores
