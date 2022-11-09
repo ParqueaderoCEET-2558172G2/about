@@ -1,6 +1,6 @@
 <h1>Certificaciones CEET<h1>
   
-<h3>El objetivo es cambiar de trabajo<h3>
+<h6>El objetivo es cambiar de trabajo<h6>
 
 Programadores
 Robinson Andres Cortes @andrescortesdev
