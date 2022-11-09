@@ -11,16 +11,18 @@
 
   
  <h2>Tecnologias a utilizar<h2>
-Backend
+   
+   
+<h3>Backend<h3>
 Se trabajara con el Framework Laravel 8 y con el lenguaje de programacion PHP 8.1
 
-FrontEnd
+<h3>FrontEnd<h3>
 Se plantea trabajar con Vuejs o Laravel Blade esta por definirse.
 
-Bases de datos
+<h3>Bases de datos<h3>
 Se trabajara con MYSQL en su version 5.6 (la version del mysql puede cambiar con el tiempo). Ver base de datos
 
-Servidor
+<h3>Servidor<h3>
 Para el tema del servidor se manejara Docker para almacenar los diferentes servicios PHP-FPM, NGINX, MYSQL
 
 CI/CD (integracion y despliegue continuo)
