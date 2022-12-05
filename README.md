@@ -1,4 +1,4 @@
-<h1>Certificaciones CEET</h1>
+<h1>Parqueadero CEET</h1>
   
 <h6>En el CEET se ha identificado una oportunidad de mejora para el proceso de autorización en el uso de parqueadero en la sede, por lo que hemos decidido cambiar la dinámica con la que se gestiona este en la sede.</h6>
 
